@@ -8,9 +8,29 @@
 }
 
 *{
-    font-family: IRAN;
+    font-family: IRAN ;
     padding: 0PX;
     margin: 0PX;
+
+}
+.second li i{
+
+    padding: 3px ;
+}
+.inbox5 i{
+
+    margin: 3px;
+    margin-left:10px;
+}
+.amudi{
+
+    width: 98%;
+    height: 40px;
+    background-color: rgba(173, 223, 173, 0.836);
+    padding-top: 15px;
+    padding-left: 10px;
+    border: 1px  solid white;
+    color: white;
 
 }
 
@@ -230,6 +250,7 @@ header{
     list-style: none ;
     display:none ;
 
+
 }
 
 .good2{
@@ -238,8 +259,6 @@ header{
     height: 40px !important;
     margin: 5px !important;
     padding-right: 30px;
-   
-    
 
 }
 
@@ -1730,18 +1749,6 @@ main{
 
 .into-main16-2 h3{
 
-    color: white;
-
-}
-
-.amudi{
-
-    width: 98%;
-    height: 40px;
-    background-color: rgba(255, 255, 255, 0);
-    padding-top: 15px;
-    padding-left: 10px;
-    border: 1px  solid white;
     color: white;
 
 }
@@ -3388,21 +3395,10 @@ footer img{
         display: block;
        
     }
-    
-    .moon{
-    
-        width: 80%;
-        height: 60%;
-        display: block;
-        margin: auto;
-
-    
-    
-    }
-    
+   
     .box3{
     
-        width: 90%;
+        width: 70%;
         height: 400px;
         background-color: white;
         margin: auto;
@@ -3415,8 +3411,8 @@ footer img{
     
     .circle-box3{
     
-        width: 80%;
-        height: 53%;
+        width: 70%;
+        height: 50%;
         border-radius: 50%;
         margin: auto;
         margin-top: 20px;
@@ -3445,6 +3441,7 @@ footer img{
         display: flex;
         list-style: none;
         margin-top: 20px;
+        justify-content: center;
     
     }
     
@@ -3499,7 +3496,7 @@ footer img{
     
         width: 100%;
         height: auto;
-        min-height: 900px;
+        min-height: 1450px;
         margin: auto;
         display: block;
     
@@ -3507,10 +3504,11 @@ footer img{
     
     .box4{
     
-        width: 85%;
-        height: 620px;
+        width: 70%;
+        height: 450px;
         background-color: white;
         margin: auto;
+        margin-top: 20px;
         border-radius: 5px;
     
     }
@@ -3524,7 +3522,7 @@ footer img{
     .box4 img{
     
         width: 100%;
-        height: 60%;
+        height: 48%;
         border-radius: 5px 5px 0px 0px;
         cursor: pointer;
     
@@ -3566,7 +3564,7 @@ footer img{
         height: 70%;
         border-radius: 50%;
         margin-top: 20px;
-        margin-left: 20px;
+        margin-left: 10px;
         cursor: pointer;
     
     }
@@ -3581,7 +3579,7 @@ footer img{
     
         color: #292827;
         margin-top: 35px;
-        margin-left: 100px;
+        margin-left: 70px;
     
     }
     
@@ -3596,7 +3594,7 @@ footer img{
     
         width: 100%;
         height: auto;
-        min-height: 2200px;
+        min-height: 1200px !important;
         background-color: #f4f4f4;
     
     }
@@ -3711,7 +3709,7 @@ footer img{
     
     .ax{
     
-        width: 36%;
+        width: 48%;
         height: 110px;
         border-radius: 50%;
         background-color: #ededed;
@@ -3941,7 +3939,7 @@ footer img{
     
         width: 98%;
         height: 40px;
-        background-color: rgba(255, 255, 255, 0);
+        background-color: rgba(173, 223, 173, 0.836);
         padding-top: 15px;
         padding-left: 10px;
         border: 1px  solid white;
@@ -4247,7 +4245,7 @@ footer img{
 
 }
 
-@media(min-width:472px)  and (max-width:550px){
+@media(min-width:472px)  and (max-width:600px){
 
                         
     @font-face{
@@ -5601,20 +5599,9 @@ footer img{
        
     }
     
-    .moon{
-    
-        width: 80%;
-        height: 60%;
-        display: block;
-        margin: auto;
-
-    
-    
-    }
-    
     .box3{
     
-        width: 90%;
+        width: 60%;
         height: 400px;
         background-color: white;
         margin: auto;
@@ -5627,8 +5614,8 @@ footer img{
     
     .circle-box3{
     
-        width: 80%;
-        height: 53%;
+        width: 70%;
+        height: 50%;
         border-radius: 50%;
         margin: auto;
         margin-top: 20px;
@@ -5657,6 +5644,7 @@ footer img{
         display: flex;
         list-style: none;
         margin-top: 20px;
+        justify-content: center;
     
     }
     
@@ -5711,7 +5699,7 @@ footer img{
     
         width: 100%;
         height: auto;
-        min-height: 900px;
+        min-height: 1960px;
         margin: auto;
         display: block;
     
@@ -5723,6 +5711,7 @@ footer img{
         height: 620px;
         background-color: white;
         margin: auto;
+        margin-top: 20px;
         border-radius: 5px;
     
     }
@@ -6153,7 +6142,7 @@ footer img{
     
         width: 98%;
         height: 40px;
-        background-color: rgba(255, 255, 255, 0);
+        background-color: rgba(173, 223, 173, 0.836);
         padding-top: 15px;
         padding-left: 10px;
         border: 1px  solid white;
@@ -7799,31 +7788,20 @@ footer img{
     .into-main12-2{
     
         width: 75%;
-        height: 900px;
+        height: 1900px;
         margin: auto;
         margin-top: 30px;
-        display: block;
-       
-    }
-    
-    .moon{
-    
-        width: 100%;
-        height: 50%;
         display: flex;
-        margin: auto;
-      
-
-    
-    
+        flex-wrap: wrap;
+       
     }
     
     .box3{
     
-        width: 90%;
+        width: 60%;
         height: 400px;
         background-color: white;
-        margin: auto;
+        margin: auto !important;
         margin: 10px;
         text-align: center;
         padding-top: 10px;
@@ -7863,6 +7841,7 @@ footer img{
         display: flex;
         list-style: none;
         margin-top: 20px;
+        justify-content: center;
     
     }
     
@@ -8360,7 +8339,7 @@ footer img{
     
         width: 98%;
         height: 40px;
-        background-color: rgba(255, 255, 255, 0);
+        background-color: rgba(173, 223, 173, 0.836);
         padding-top: 15px;
         padding-left: 10px;
         border: 1px  solid white;
@@ -9293,14 +9272,13 @@ footer img{
         margin-top: 30px;
         background-color: white;
         box-shadow: 1px 1px 8px 1px #7c8a97;
-        
-         
+
     }
     
     .box img{
     
         margin-top: -30px;
-        margin-left: 130px;
+        margin-left: 110px;
     
     }
     
@@ -9322,12 +9300,11 @@ footer img{
         width: 20%;
         height: 50px;
         background-color: #6bb00b;
-        margin-left: 190px;
+        margin-left: 170px;
         border: 2px solid #6bb00b;
         text-align: center;
         color: white;
         font-size: 26px;
-    
     
     }
     
@@ -9363,10 +9340,7 @@ footer img{
         height: 690px;
         margin: 30px;
      
-    
-    
     }
-    
     
     .inboxx{
     
@@ -9752,7 +9726,7 @@ footer img{
     
     .box2{
     
-        width: 70%;
+        width: 60%;
         height: 620px;
         margin: auto;
         background-color: white;
@@ -10007,26 +9981,16 @@ footer img{
         height: 900px;
         margin: auto;
         margin-top: 30px;
-        display: block;
+        display: flex;
+        flex-wrap: wrap;
        
     }
     
-    .moon{
-    
-        width: 100%;
-        height: 50%;
-        display: flex;
-        margin: auto;
-      
-
-    
-    
-    }
     
     .box3{
     
-        width: 90%;
-        height: 400px;
+        width: 45%;
+        height: 360px;
         background-color: white;
         margin: auto;
         margin: 10px;
@@ -10068,18 +10032,21 @@ footer img{
         display: flex;
         list-style: none;
         margin-top: 20px;
+        justify-content: center;
+    
     
     }
     
     .icone3 li{
     
         width: 35%;
-        height: 25px;
+        height: 18px;
         margin: 5px;
         border-radius: 50%;
         background-color:white;
         color: #292827;
         border: 1px #292827 solid;
+        padding: 7px;
         padding-top:3px;
         cursor: pointer;
     
@@ -10335,7 +10302,7 @@ footer img{
     
     .ax{
     
-        width: 30%;
+        width: 25%;
         height: 110px;
         border-radius: 50%;
         background-color: #ededed;
@@ -10565,7 +10532,7 @@ footer img{
     
         width: 98%;
         height: 40px;
-        background-color: rgba(255, 255, 255, 0);
+        background-color: rgba(173, 223, 173, 0.836);
         padding-top: 15px;
         padding-left: 10px;
         border: 1px  solid white;
@@ -10682,9 +10649,6 @@ footer img{
     
         width: 100%;
         height: 70px;
-        
-    
-       
         
     }
     
@@ -11483,7 +11447,7 @@ footer img{
     
     .holder-box{
     
-        width: 70%;
+        width: 60%;
         height: 550px;
         margin: auto;
       
@@ -11498,6 +11462,7 @@ footer img{
         margin-top: 30px;
         background-color: white;
         box-shadow: 1px 1px 7px 1px #7c8a97;
+        justify-content: center;
         
          
     }
@@ -11505,7 +11470,7 @@ footer img{
     .box img{
     
         margin-top: -30px;
-        margin-left: 165px;
+        margin-left: 120px;
     
     }
     
@@ -11527,7 +11492,7 @@ footer img{
         width: 15%;
         height: 50px;
         background-color: #6bb00b;
-        margin-left: 220px;
+        margin-left: 185px;
         border: 2px solid #6bb00b;
         text-align: center;
         color: white;
@@ -12202,43 +12167,30 @@ footer img{
      
        
     }
-    
-    
+     
     .into-main12-2{
     
-        width: 75%;
+        width: 85%;
         height: 900px;
         margin: auto;
         margin-top: 30px;
-        display: block;
+        display: flex;
+        flex-wrap: wrap;
        
     }
-    
-    .moon{
-    
-        width: 100%;
-        height: 50%;
-        display: flex;
-        margin: auto;
-      
-
-    
-    
-    }
-    
+        
     .box3{
     
-        width: 90%;
+        width: 45%;
         height: 400px;
         background-color: white;
         margin: auto;
-        margin: 10px;
+        margin: 14px;
         text-align: center;
         padding-top: 10px;
     
     }
-    
-    
+
     .circle-box3{
     
         width: 80%;
@@ -12538,7 +12490,7 @@ footer img{
     
     .ax{
     
-        width: 30%;
+        width: 25%;
         height: 110px;
         border-radius: 50%;
         background-color: #ededed;
@@ -12625,7 +12577,7 @@ footer img{
     
     .into-main16-1 h3{
     
-        margin-left: 30px;
+        margin-left:40px;
         color: white;
     
     }
@@ -12768,7 +12720,7 @@ footer img{
     
         width: 98%;
         height: 40px;
-        background-color: rgba(255, 255, 255, 0);
+        background-color: rgba(173, 223, 173, 0.836);
         padding-top: 15px;
         padding-left: 10px;
         border: 1px  solid white;
@@ -12867,9 +12819,6 @@ footer img{
         height: 100%;
         display: block;
         
-        
-    
-    
     }
     
     #green3{
@@ -12885,9 +12834,6 @@ footer img{
     
         width: 100%;
         height: 70px;
-        
-    
-       
         
     }
     
@@ -14159,7 +14105,7 @@ footer img{
     
     .box2{
     
-        width: 70%;
+        width: 60%;
         height: 620px;
         margin: auto;
         background-color: white;
@@ -14288,7 +14234,8 @@ footer img{
     
     .div-read{
     
-        width: 100%;
+        width: 80% !important;
+        margin: auto;
         height: 40px;
         display: flex;
     
@@ -14410,33 +14357,22 @@ footer img{
     
     .into-main12-2{
     
-        width: 75%;
+        width: 85%;
         height: 900px;
         margin: auto;
         margin-top: 30px;
-        display: block;
-       
-    }
-    
-    .moon{
-    
-        width: 100%;
-        height: 50%;
         display: flex;
-        margin: auto;
-      
-
-    
-    
+        flex-wrap: wrap;
+       
     }
     
     .box3{
     
-        width: 90%;
+        width: 45%;
         height: 400px;
         background-color: white;
         margin: auto;
-        margin: 10px;
+        margin: 16px;
         text-align: center;
         padding-top: 10px;
     
@@ -14445,8 +14381,8 @@ footer img{
     
     .circle-box3{
     
-        width: 80%;
-        height: 53%;
+        width: 66%;
+        height: 50%;
         border-radius: 50%;
         margin: auto;
         margin-top: 20px;
@@ -14537,7 +14473,7 @@ footer img{
     
     .box4{
     
-        width: 70%;
+        width: 60%;
         height: 620px;
         background-color: white;
         margin: auto;
@@ -14742,8 +14678,8 @@ footer img{
     
     .ax{
     
-        width: 30%;
-        height: 110px;
+        width: 25%;
+        height: 120px;
         border-radius: 50%;
         background-color: #ededed;
         margin-top: -12px;
@@ -14808,14 +14744,11 @@ footer img{
         background-color: #483b33be;
         margin: auto;
         padding-top: 10px;
-        
-        
     
     }
     
     .into-main16-1 h1{
-    
-        
+      
         margin-left: 40px;
         color: white;
     
@@ -14829,7 +14762,7 @@ footer img{
     
     .into-main16-1 h3{
     
-        margin-left: 30px;
+        margin-left: 48px;
         color: white;
     
     }
@@ -14951,7 +14884,6 @@ footer img{
         margin: auto;
         margin-top: 60px;
         
-    
     }
     
     .into-main16-2 h1{
@@ -14972,7 +14904,7 @@ footer img{
     
         width: 98%;
         height: 40px;
-        background-color: rgba(255, 255, 255, 0);
+        background-color: rgba(173, 223, 173, 0.836);
         padding-top: 15px;
         padding-left: 10px;
         border: 1px  solid white;
@@ -15427,11 +15359,10 @@ footer img{
         cursor: pointer;
         margin-top: 40px;
         color: #483B33;
-        font-size: 13px;
-      
+        font-size: 12px;
     
     }
-    
+
     #tag{
     
         width: 100%;
@@ -16333,7 +16264,7 @@ footer img{
     
     .div-read{
     
-        width: 90% !important;
+        width: 95% !important;
         height: 50px;
         margin: auto;
         margin-top: 15px !important;
@@ -16345,15 +16276,13 @@ footer img{
     
         font-weight: 700;
         color: #292827;
-        margin-left: 20px;
-    
+        margin-left: 0px;
     }
-    
     
     .div-read p{
     
         color: #ff9600;
-        margin-left: 30px !important;
+        margin-left:20px !important;
         
     
     }
@@ -16443,17 +16372,14 @@ footer img{
     
     }
     
-    
     .into-main12{
     
-        width: 75%;
+        width: 90%;
         height: 200px;
         margin: auto;
         margin-top: 50px;
      
-       
     }
-    
     
     .into-main12-2{
     
@@ -16462,25 +16388,16 @@ footer img{
         margin: auto;
         margin-top: 30px;
         display: flex;
-       
-    }
-    
-    .moon{
-    
-        width: 50%;
-        height: 100%;
-        display: flex;
-    
-    
+        flex-wrap: wrap;
     }
     
     .box3{
     
-        width: 40%;
+        width: 22.5%;
         height: 370px;
         background-color: white;
         margin: auto;
-        margin: 15px;
+        margin: 11px;
         text-align: center;
     
     }
@@ -16581,7 +16498,7 @@ footer img{
     .box4{
     
         width: 40%;
-        height: 560px;
+        height: 500px;
         background-color: white;
         margin: 10px;
         border-radius: 5px;
@@ -16597,7 +16514,7 @@ footer img{
     .box4 img{
     
         width: 100%;
-        height: 55%;
+        height: 48%;
         border-radius: 5px 5px 0px 0px;
         cursor: pointer;
     
@@ -16628,15 +16545,16 @@ footer img{
     
     .end-of-box4{
     
-        width: 80%;
+        width: 90%;
         height: 15%;
         display: flex;
+        margin: auto;
     }
     
     .end-of-box4 img{
     
-        width: 20%;
-        height: 60%;
+        width: 21%;
+        height: 80%;
         border-radius: 50%;
         margin-top: 20px;
         margin-left: 10px;
@@ -16647,6 +16565,7 @@ footer img{
     .end-of-box4 p{
     
         margin-top: 35px;
+        font-size: 12px;
     
     }
     
@@ -16654,7 +16573,8 @@ footer img{
     
         color: #292827;
         margin-top: 35px;
-        margin-left: 80px;
+        font-size: 15px;
+        margin-left: 25px;
     
     }
     
@@ -16782,8 +16702,8 @@ footer img{
     
     .ax{
     
-        width: 34%;
-        height: 120px;
+        width: 50%;
+        height: 130px;
         border-radius: 50%;
         background-color: #ededed;
         margin-top: -20px;
@@ -16866,7 +16786,7 @@ footer img{
     
     .into-main16-1 h3{
     
-        margin-left: 30px;
+        margin-left: 35px;
         color: white;
     
     }
@@ -17008,7 +16928,7 @@ footer img{
     
         width: 98%;
         height: 40px;
-        background-color: rgba(255, 255, 255, 0);
+        background-color: rgba(173, 223, 173, 0.836);
         padding-top: 15px;
         padding-left: 10px;
         border: 1px  solid white;
@@ -17035,6 +16955,8 @@ footer img{
         border: 2px #6bb00b solid;
         margin-left: 60px;
         transition: 1s;
+        padding: 3px;
+        font-size: 12px;
     }
     
     .dokme5:hover{
@@ -17309,7 +17231,7 @@ footer img{
 
 }
 
-@media(min-width:1001px) and (max-width:1400px){
+@media(min-width:1201px) and (max-width:1400px){
 
                         
     @font-face{
@@ -18556,13 +18478,13 @@ footer img{
     .icone3 li{
     
         width: 33%;
-        height: 25px;
+        height: 30px;
         margin: 5px;
         border-radius: 50%;
         background-color:white;
         color: #292827;
         border: 1px #292827 solid;
-        padding-top:3px;
+        padding-top:7px;
         cursor: pointer;
     
     }
@@ -18898,7 +18820,7 @@ footer img{
     
     .into-main16-1 h3{
     
-        margin-left: 30px;
+        margin-left: 20px;
         color: white;
     
     }
