@@ -4244,6 +4244,11 @@ footer img{
 }
 @media(min-width:320px) and (max-width:370px){
 
+    .main12{
+
+        height: auto;
+        min-height: 2000px;
+    }
     .box4{
 
         height: 430px;
@@ -4266,6 +4271,11 @@ footer img{
 
         width: 20%;
         height: 70%;
+    }
+    .ax{
+
+        width: 63%;
+        height: 100%;
     }
 }
 @media(min-width:371px) and (max-width:420px){
